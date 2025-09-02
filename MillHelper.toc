@@ -1,0 +1,34 @@
+## Interface: 50500
+## Version: 1.00
+## Author: Pirson
+
+
+## Title: |TInterface/Addons/MillHelper/img/logo_mh:16:16|t |cffd597ffMill Helper|r
+
+
+## Notes: |cFF33CCFFAllows you to mill herbs semi-automatically with just one click.|r
+## Notes-esES: |cFF33CCFFMuele hierbas de forma semi-automática con solo un clic.|r
+## Notes-esMX: |cFF33CCFFMuele hierbas de forma semi-automática con solo un clic.|r
+## Notes-deDE: |cFF33CCFFErmöglicht es dir, Kräuter halbautomatisch mit nur einem Klick zu mahlen.|r
+## Notes-frFR: |cFF33CCFFPermet de broyer des herbes de manière semi-automatique en un seul clic.|r
+## Notes-itIT: |cFF33CCFFConsente di macinare le erbe in modo semi-automatico con un solo clic.|r
+## Notes-koKR: |cFF33CCFF단 한 번의 클릭으로 약초를 반자동으로 분쇄할 수 있습니다.|r
+## Notes-ptBR: |cFF33CCFFPermite moer ervas de forma semi-automática com apenas um clique.|r
+## Notes-ptPT: |cFF33CCFFPermite moer ervas de forma semi-automática com apenas um clique.|r
+## Notes-ruRU: |cFF33CCFFПозволяет полуавтоматически измельчать травы всего одним кликом.|r
+## Notes-zhCN: |cFF33CCFF只需一次点击即可半自动研磨草药。|r
+## Notes-zhTW: |cFF33CCFF只需一次點擊即可半自動碾磨草藥。|r
+
+
+## SavedVariables: MillHelperDB
+
+
+## X-Curse-Project-ID: 1308020
+
+Libs/LibStub/LibStub.lua
+Libs/LibDataBroker-1.1/LibDataBroker-1.1.lua
+Libs/LibDBIcon-1.0/LibDBIcon-1.0.lua
+
+Locales.lua
+MillHelper.lua
+MinimapButton.lua
